@@ -1,0 +1,38 @@
+body {
+    color: slategray;
+    background: lavender;
+    margin: 0px;
+    font-family: "Kanit", sans-serif;
+}
+header{
+border-bottom : solid 1px white;
+padding: 20px;
+font-size: 32px;
+color: white;
+}
+
+section{
+background: rgb(225 222 247);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+
+}
+.chamada-texto{
+margin-right: 5%;
+}
+h1{
+font-size: 45px;
+}
+p{
+    font-size: 20px;
+}
+img {
+  height: 300px;
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+}
